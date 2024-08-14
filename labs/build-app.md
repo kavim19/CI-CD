@@ -4,7 +4,7 @@ Github Actions is configured through the [YAML files](https://docs.github.com/en
 
 :bulb: The trickiest part of writing the configuration files is typically getting the indentation right.
 
-### learning goals
+### learning goal
 
 - Understand the basic structure of a workflow file
 - Understand the basic structure of a job
